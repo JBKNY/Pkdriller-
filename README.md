@@ -1,7 +1,9 @@
-# Pkdriller-  <img src="https://files.catbox.moe/jzquph.jpg" alt="PK TECH" width 
+# Pkdriller- 
+<img src="https://files.catbox.moe/jzquph.jpg" alt="PK TECH" width 
 
 ---
-
+</a>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 #  connect with pk tech
 
