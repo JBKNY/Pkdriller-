@@ -1,5 +1,4 @@
-# PK DRILLER
-<img src="https://files.catbox.moe/jzquph.jpg" alt="PK TECH" width 
+# MR PK DRILLER
 
 ---
 </a>
@@ -10,7 +9,6 @@
 ## 🌍 **Official Links & Community**  
 
 > 🔥 **Join the pk-tech Network!** Stay updated & connected.  
-alt="Typing SVG" /
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
