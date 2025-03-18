@@ -9,7 +9,7 @@
 
 ## 🌍 **Official Links & Community**  
 
-> 🔥 **Join the pk-tech Network!** Stay updated & connected.  
+> 🔥 **Join the pk-tech Network!** Stay updated & connected.  alt="Typing SVG" /
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x">
@@ -27,6 +27,7 @@
   <a href="https://t.me/pkxmdbotuser_bot">
     <img src="https://img.shields.io/badge/Telegram-Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+  alt="Typing SVG" /
 </p>
 
 📞 **Contact on WhatsApp:** [Mr Pkdriller](https://wa.me/254785392165)
