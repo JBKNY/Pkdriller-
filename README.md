@@ -1,6 +1,4 @@
-# MR PK DRILLER
-src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
-            
+# MR PK DRILLER           
 <p align="center"> 
 <up programming codding ❤️</u>
 </p>
