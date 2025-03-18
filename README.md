@@ -3,7 +3,7 @@
 <up programming codding ❤️</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/26f030.mp4"/>       
+<img src="https://files.catbox.moe/ipqgsk.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-
 
