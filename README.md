@@ -37,7 +37,7 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-casey%20web-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-pk%20driller-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
