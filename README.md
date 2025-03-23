@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">PKXMD-BOT AND QUEEN-MONICA-MD UPDATES</h1>
+  <h1 align="center">PKXMD-BOT UPDATES</h1>
 </p>
 
 > **`Updated` WELCOME TO PK OFFICE**
