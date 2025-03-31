@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Let me introduce myself. My name is "Hanif Dwy Putra S", you can call me "Hanif". I'm 17 years old. And, I'm from Central Sulawesi, Palu, Indonesia. I love web scraping (I think), and creating bugs 🐛
+Let me introduce myself. My name is benard wachira", you can call me "pkdriller". I'm 20 years old. And, I'm from kenya laikipia . I love web scraping (I think), and creating bugs 🐛, what'sapp bot 
 
 ## Projects 🌟
 - [TikTok Downloader Rest API](https://github.com/hansputera/tiktok-dl) to retrieve TikTok's video metadata like video download URLs, music, video author, etc..
@@ -8,11 +8,11 @@ Let me introduce myself. My name is "Hanif Dwy Putra S", you can call me "Hanif"
 
 ## Statistics 🔥
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansputera&show_icons=true&locale=en&layout=compact&theme=dark" alt="hansputera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkdriller &show_icons=true&locale=en&layout=compact&theme=dark" alt="hansputera" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&locale=en&theme=dark" alt="hansputera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkdriller &show_icons=true&locale=en&theme=dark" alt="pkdriller" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=hansputera&layout=compact" alt="hansputera" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pkdriller &layout=compact" alt="hansputera" /></p>
 
 -------------------------
 
