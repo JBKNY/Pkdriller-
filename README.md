@@ -1,5 +1,36 @@
-
-![Welcome](path/to/welcome.svg)
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      fill: black;
+    }
+    .cursor {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      fill: black;
+      animation: blink 0.7s steps(1) infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    .typing {
+      overflow: hidden;
+      border-right: .15em solid black;
+      white-space: nowrap;
+      width: 0;
+      animation: typing 4s steps(40, end) forwards, blink 0.7s step-end infinite;
+    }
+  </style>
+  <text x="0" y="50" class="text">
+    <tspan class="typing">Welcome to Pkdriller the developer</tspan>
+    <tspan class="cursor">|</tspan>
+  </text>
+</svg>
 
 
 
