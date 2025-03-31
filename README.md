@@ -8,9 +8,9 @@ Let me introduce myself. My name is benard wachira", you can call me "pkdriller"
 
 ## Statistics 🔥
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkdriller &show_icons=true&locale=en&layout=compact&theme=dark" alt="hansputera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hansputera &show_icons=true&locale=en&layout=compact&theme=dark" alt="hansputera" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkdriller &show_icons=true&locale=en&theme=dark" alt="pkdriller" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansputerq &show_icons=true&locale=en&theme=dark" alt="hansputera" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pkdriller &layout=compact" alt="hansputera" /></p>
 
