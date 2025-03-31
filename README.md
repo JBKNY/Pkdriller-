@@ -1,3 +1,23 @@
+# Welcome to Pkdriller Office
+
+<p id="welcome-message"></p>
+
+<script>
+  const message = "Welcome to Pkdriller office. I love coding and programming.";
+  const speed = 100; // typing speed in milliseconds
+  let i = 0;
+
+  function typeWriter() {
+    if (i < message.length) {
+      document.getElementById("welcome-message").innerHTML += message.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  window.onload = typeWriter;
+</script>
+
 # Supported Languages
 
 This project includes implementations in the following programming languages:
