@@ -1,36 +1,31 @@
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 24px;
-      fill: black;
-    }
-    .cursor {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 24px;
-      fill: black;
-      animation: blink 0.7s steps(1) infinite;
-    }
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-    .typing {
-      overflow: hidden;
-      border-right: .15em solid black;
-      white-space: nowrap;
-      width: 0;
-      animation: typing 4s steps(40, end) forwards, blink 0.7s step-end infinite;
-    }
-  </style>
-  <text x="0" y="50" class="text">
-    <tspan class="typing">Welcome to Pkdriller the developer</tspan>
-    <tspan class="cursor">|</tspan>
-  </text>
-</svg>
+# Hi there, I'm Pkdriller! 👋
+
+## About Me
+I'm a passionate developer with a keen interest in open-source projects and innovative technology. I love coding, learning new languages, and contributing to the community.
+
+## Skills
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React, Node.js, Express, Django
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, MongoDB, PostgreSQL
+
+## Projects
+Here are a few projects I've worked on:
+- [Project1](https://github.com/Pkdriller/QUEEN-M): Description of project 1.
+- [Project2](https://github.com/Pkdriller/PKXMD-BOT): Description of project 2.
+- [Project3](https://github.com/Pkdriller/Project3): Description of project 3.
+
+## GitHub Stats
+![Pkdriller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkdriller&show_icons=true&theme=radical)
+
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/pkdriller)
+- [Twitter](https://twitter.com/pkdriller)
+- [Email](mailto:pkdriller@example.com)
+
+Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
+
+Thanks for stopping by! 😄
 
 
 
