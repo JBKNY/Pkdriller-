@@ -21,7 +21,7 @@ Here are a few projects I've worked on:
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/pkdriller)
 - [Twitter](https://twitter.com/pkdriller)
-- [Email](mailto:pkdriller@example.com)
+- [Email](benardwachira49@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
