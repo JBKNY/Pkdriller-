@@ -1,5 +1,7 @@
 # Hi there, I'm Pkdriller! 👋
-
+<img
+ src="https://komarev.com/ghpvc/?username=pkdriller&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
+</p>
 ## About Me
 I'm a passionate developer with a keen interest in open-source projects and innovative technology. I love coding, learning new languages, and contributing to the community.
 
