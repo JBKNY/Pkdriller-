@@ -1,21 +1,29 @@
-![My card name](https://cardivo.vercel.app/api?name=pkdriller%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/113657908?s=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=pktech01.drip&github=pkdriller&)
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pkdrillee&label=Profile%20views" alt="pkdriller" style="width: 150px;" />
-</p>
-</br>
+!254785392165" target="_blank">
+# Hi there, I'm Pkdriller 👋
 
-<div align="center"> 
-  <a href="mailto: benardwachira49@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://wa.me/254785392165" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/pktech01" target="_blank">
-     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+## About Me
+I'm a passionate developer who loves working on exciting projects and exploring new technologies. I enjoy solving problems, learning new things, and collaborating with others in the tech community.
+
+## My Skills
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks**: React, Node.js, Express, Django, Spring Boot
+- **Tools**: Git, Docker, Kubernetes, Jenkins
+- **Databases**: MongoDB, MySQL, PostgreSQL
+
+## Projects
+Here are a few projects I've worked on:
+- [**Project 1**](https://github.com/Pkdriller/project1) - A brief description of what this project is about.
+- [**Project 2**](https://github.com/Pkdriller/project2) - A brief description of what this project is about.
+- [**Project 3**](https://github.com/Pkdriller/project3) - A brief description of what this project is about.
+
+## Get in Touch
+- **Email**: pkdriller@example.com
+- **LinkedIn**: [Pkdriller](https://www.linkedin.com/in/pkdriller)
+- **Twitter**: [@pkdriller](https://twitter.com/pkdriller)
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+![Pkdriller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkdriller&show_icons=true&theme=radical)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -91,37 +99,6 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
   
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
-</div>
-
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pkdriller/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pkdriller &count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pkdriller&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pkdriller &hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
 
 <div align="center">
 <a href='https://ko-fi.com/pkdriller' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
