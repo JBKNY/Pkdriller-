@@ -1,27 +1,18 @@
+![logo](https://github.com/pkdriller/PK-XMD-OWN/blob/main/GitHub%20Banner.png)
+<h1 align="center">HEY ðŸ‘‹ðŸ», I'M ALI RAZA </h1>
+<h3 align="center">A passionate Software Engineer from pak</h3>
 
-# Hi there, I'm Pkdriller 👋
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## About Me
-I'm a passionate developer who loves working on exciting projects and exploring new technologies. I enjoy solving problems, learning new things, and collaborating with others in the tech community.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-## My Skills
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Express, Django, Spring Boot
-- **Tools**: Git, Docker, Kubernetes, Jenkins
-- **Databases**: MongoDB, MySQL, PostgreSQL
 
-## Projects
-Here are a few projects I've worked on:
-- [**Project 1**](https://github.com/Pkdriller/project1) - A brief description of what this project is about.
-- [**Project 2**](https://github.com/Pkdriller/project2) - A brief description of what this project is about.
-- [**Project 3**](https://github.com/Pkdriller/project3) - A brief description of what this project is about.
+- âš¡ Fun fact **I am funnyðŸ˜…**
 
-## Get in Touch
-- **Email**: pkdriller@example.com
-- **LinkedIn**: [Pkdriller](https://www.linkedin.com/in/pkdriller)
-- **Twitter**: [@pkdriller](https://twitter.com/pkdriller)
-
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/itx-alii-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itx-alii-raza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pk_tech01?igsh=MTM0Y2p3ZHpxMXZraA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 
 ![Pkdriller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pkdriller&show_icons=true&theme=radical)
 
